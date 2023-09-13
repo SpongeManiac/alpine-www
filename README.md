@@ -7,7 +7,7 @@ Pull the image:
 
 and extend from this image like any other:
 ```
-FROM alpine-www
+FROM spongemaniac/alpine-www
 
 ...
 ```
